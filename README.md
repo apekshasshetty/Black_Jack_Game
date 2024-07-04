@@ -8,7 +8,7 @@ Here are the requirements:
 * You need to alert the player of wins, losses, or busts, etc.
 Below is a set of steps for you to follow to try to create the Blackjack
 
-GAME PLAY
+### GAME PLAY
 To play a hand of Blackjack the following steps must be followed:
 1. Create a deck of 52 cards
 2. Shuffle the deck
@@ -23,7 +23,7 @@ To play a hand of Blackjack the following steps must be followed:
 11. Determine the winner and adjust the Player's chips accordingly
 12. Ask the Player if they'd like to play again
 
-PLAYING CARDS
+### PLAYING CARDS
 A standard deck of playing cards has four suits (Hearts, Diamonds, Spades and Clubs) and thirteen ranks (2 through 10, then the face cards Jack, Queen, King and Ace) 
 for a total of 52 cards per deck. Jacks, Queens and Kings all have a rank of 10. Aces have a rank of either 11 or 1 as needed to reach 21 without busting. 
 As a starting point in your program, you may want to assign variables to store a list of suits, ranks, and then use a dictionary to map ranks to values.
