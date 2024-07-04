@@ -1,4 +1,4 @@
-BLACKJACK GAME
+### BLACKJACK GAME
 Here are the requirements:
 * You need to create a simple text-based game
 * The game needs to have one player versus an automated dealer.
